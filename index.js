@@ -1,6 +1,3 @@
-// document.getElementById("count-el").innerHTML = 5;
-
-// Create variables to store data
 let countEl = document.getElementById("countElement");
 let saveEl = document.getElementById("saveElement")
 let count = 0;
